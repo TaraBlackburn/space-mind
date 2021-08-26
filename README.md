@@ -1,2 +1,2 @@
 # space-mind
-My first python game
+My first python BCI game - under construction 
